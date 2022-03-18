@@ -1,0 +1,10 @@
+{
+  "Name": "Worst Luck",
+  "Author": "Vertigon",
+  "Version": "0.1.0",
+  "Description": "Sets luck value to the lowest possible every day.",
+  "UniqueID": "Vertigon.WorstLuck",
+  "EntryDll": "WorstLuck.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
